@@ -1,0 +1,9 @@
+.carousel-inner{
+    height:250px;
+    width:250px;
+    object-fit: fill;
+    
+}
+.carousel slide{
+    width: 500px;
+}
